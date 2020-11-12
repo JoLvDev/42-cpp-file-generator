@@ -1,9 +1,9 @@
 {
-  "name": "my-package",
+  "name": "42-cpp-canonical-file-filler",
   "main": "./lib/my-package",
   "version": "0.0.0",
-  "description": "A short description of your package",
-  "keywords": [
+  "description": "Fill your .hpp ans .cpp file with mandatory funcs for a canonical class",
+  "keywords": ["42", "cpp", "codam", "19", "cannonical", "cannonical", "hpp"
   ],
   "activationCommands": {
     "atom-workspace": "my-package:toggle"
