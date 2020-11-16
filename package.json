@@ -1,7 +1,7 @@
 {
   "name": "42-cpp-file-generator",
   "main": "./lib/my-package",
-  "version": "0.0.0",
+  "version": "1.0.1",
   "description": "Fill your .hpp and .cpp file with mandatory funcs for a canonical class",
   "keywords": [
     "42",
