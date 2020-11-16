@@ -1,9 +1,16 @@
 {
-  "name": "42-cpp-canonical-file-filler",
+  "name": "42-cpp-file-generator",
   "main": "./lib/my-package",
   "version": "0.0.0",
-  "description": "Fill your .hpp ans .cpp file with mandatory funcs for a canonical class",
-  "keywords": ["42", "cpp", "codam", "19", "cannonical", "cannonical", "hpp"
+  "description": "Fill your .hpp and .cpp file with mandatory funcs for a canonical class",
+  "keywords": [
+    "42",
+    "cpp",
+    "codam",
+    "19",
+    "cannonical",
+    "cannonical",
+    "hpp"
   ],
   "activationCommands": {
     "atom-workspace": "my-package:toggle"
@@ -13,6 +20,5 @@
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   },
-  "dependencies": {
-  }
+  "dependencies": {}
 }
