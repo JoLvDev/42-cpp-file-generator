@@ -2,7 +2,7 @@
   "name": "42-cpp-file-generator",
   "main": "./lib/my-package",
   "version": "1.0.2",
-  "description": "Fill your .hpp and .cpp file with mandatory funcs for a canonical class",
+  "description": "Fill your .hpp and .cpp file with mandatory funcs for a canonical class. Presso ctrl+o within your .cpp and .hpp files to fill them.",
   "keywords": [
     "42",
     "cpp",
@@ -10,6 +10,8 @@
     "19",
     "canonical",
     "cannonical",
+    "norm",
+    "c++",
     "hpp"
   ],
   "activationCommands": {
